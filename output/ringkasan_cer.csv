@@ -1,0 +1,13 @@
+metode,cer_rata2,cer_median,cer_terburuk,citra_sempurna
+none,0.0,0.0,0.0,9/9
+gaussian,0.0,0.0,0.0,9/9
+median,0.0,0.0,0.0,9/9
+bilateral,0.0,0.0,0.0,9/9
+nlmeans,0.0,0.0,0.0,9/9
+unsharp,0.0,0.0,0.0,9/9
+illum_norm,0.0,0.0,0.0,9/9
+clahe,0.0074,0.0,0.0667,8/9
+clahe_sharpen,0.0074,0.0,0.0667,8/9
+clahe_denoise_sharpen,0.0074,0.0,0.0667,8/9
+illum_clahe_sharpen,0.1111,0.0,1.0,8/9
+hist_eq,0.8667,1.0,1.0,0/9
